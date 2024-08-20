@@ -1,0 +1,11 @@
+{
+    "name": "pgsumo",
+    "version": "1.0.0",
+    "scripts": {
+       "build": "some-build-command --output-dir public"
+    },
+    "dependencies": {
+ 
+    }
+  }
+  
